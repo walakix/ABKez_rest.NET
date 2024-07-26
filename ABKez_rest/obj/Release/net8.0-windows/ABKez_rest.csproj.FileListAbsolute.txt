@@ -1,0 +1,17 @@
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\bin\Release\net8.0-windows\ABKez_rest.exe
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\bin\Release\net8.0-windows\ABKez_rest.deps.json
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\bin\Release\net8.0-windows\ABKez_rest.runtimeconfig.json
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\bin\Release\net8.0-windows\ABKez_rest.dll
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\bin\Release\net8.0-windows\ABKez_rest.pdb
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\obj\Release\net8.0-windows\ABKez_rest.Form1.resources
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\obj\Release\net8.0-windows\ABKez_rest.csproj.GenerateResource.cache
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\obj\Release\net8.0-windows\ABKez_rest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\obj\Release\net8.0-windows\ABKez_rest.AssemblyInfoInputs.cache
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\obj\Release\net8.0-windows\ABKez_rest.AssemblyInfo.cs
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\obj\Release\net8.0-windows\ABKez_rest.csproj.CoreCompileInputs.cache
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\obj\Release\net8.0-windows\ABKez_rest.csproj.Fody.CopyLocal.cache
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\obj\Release\net8.0-windows\ABKez_rest.dll
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\obj\Release\net8.0-windows\refint\ABKez_rest.dll
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\obj\Release\net8.0-windows\ABKez_rest.pdb
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\obj\Release\net8.0-windows\ABKez_rest.genruntimeconfig.cache
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\obj\Release\net8.0-windows\ref\ABKez_rest.dll

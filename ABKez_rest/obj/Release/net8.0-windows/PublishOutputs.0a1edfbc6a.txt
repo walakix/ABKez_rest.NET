@@ -1,0 +1,5 @@
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\bin\Release\net8.0-windows\app.publish\ABKez_rest.exe
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\bin\Release\net8.0-windows\app.publish\ABKez_rest.dll
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\bin\Release\net8.0-windows\app.publish\ABKez_rest.deps.json
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\bin\Release\net8.0-windows\app.publish\ABKez_rest.runtimeconfig.json
+C:\Users\Walaki\source\repos\ABKez_rest\ABKez_rest\bin\Release\net8.0-windows\app.publish\ABKez_rest.pdb
